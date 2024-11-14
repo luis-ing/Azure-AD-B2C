@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lklk9\\source\\repos\\App-Azure-OpenId\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F56098-B480-44D2-A1EF-8E3814E4504C}|App-Azure-OpenId.csproj|c:\\users\\lklk9\\source\\repos\\app-azure-openid\\services\\graphuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F56098-B480-44D2-A1EF-8E3814E4504C}|App-Azure-OpenId.csproj|solutionrelative:services\\graphuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F56098-B480-44D2-A1EF-8E3814E4504C}|App-Azure-OpenId.csproj|c:\\users\\lklk9\\source\\repos\\app-azure-openid\\services\\azureb2cusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F56098-B480-44D2-A1EF-8E3814E4504C}|App-Azure-OpenId.csproj|solutionrelative:services\\azureb2cusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F56098-B480-44D2-A1EF-8E3814E4504C}|App-Azure-OpenId.csproj|c:\\users\\lklk9\\source\\repos\\app-azure-openid\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F56098-B480-44D2-A1EF-8E3814E4504C}|App-Azure-OpenId.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F56098-B480-44D2-A1EF-8E3814E4504C}|App-Azure-OpenId.csproj|c:\\users\\lklk9\\source\\repos\\app-azure-openid\\models\\viewmodels\\updateuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F56098-B480-44D2-A1EF-8E3814E4504C}|App-Azure-OpenId.csproj|solutionrelative:models\\viewmodels\\updateuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F56098-B480-44D2-A1EF-8E3814E4504C}|App-Azure-OpenId.csproj|c:\\users\\lklk9\\source\\repos\\app-azure-openid\\views\\account\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F56098-B480-44D2-A1EF-8E3814E4504C}|App-Azure-OpenId.csproj|solutionrelative:views\\account\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F56098-B480-44D2-A1EF-8E3814E4504C}|App-Azure-OpenId.csproj|c:\\users\\lklk9\\source\\repos\\app-azure-openid\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F56098-B480-44D2-A1EF-8E3814E4504C}|App-Azure-OpenId.csproj|solutionrelative:views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F56098-B480-44D2-A1EF-8E3814E4504C}|App-Azure-OpenId.csproj|c:\\users\\lklk9\\source\\repos\\app-azure-openid\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F56098-B480-44D2-A1EF-8E3814E4504C}|App-Azure-OpenId.csproj|solutionrelative:views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lklk9\\source\\repos\\App-Azure-OpenId\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lklk9\\source\\repos\\App-Azure-OpenId\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwEEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T20:13:03.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\lklk9\\source\\repos\\App-Azure-OpenId\\Views\\Account\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Update.cshtml",
+              "ToolTip": "C:\\Users\\lklk9\\source\\repos\\App-Azure-OpenId\\Views\\Account\\Update.cshtml",
+              "RelativeToolTip": "Views\\Account\\Update.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T19:01:33.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lklk9\\source\\repos\\App-Azure-OpenId\\Models\\ViewModels\\UpdateUserViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\UpdateUserViewModel.cs",
+              "ToolTip": "C:\\Users\\lklk9\\source\\repos\\App-Azure-OpenId\\Models\\ViewModels\\UpdateUserViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\UpdateUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:20:45.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraphUserService.cs",
+              "DocumentMoniker": "C:\\Users\\lklk9\\source\\repos\\App-Azure-OpenId\\Services\\GraphUserService.cs",
+              "RelativeDocumentMoniker": "Services\\GraphUserService.cs",
+              "ToolTip": "C:\\Users\\lklk9\\source\\repos\\App-Azure-OpenId\\Services\\GraphUserService.cs",
+              "RelativeToolTip": "Services\\GraphUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:05:15.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lklk9\\source\\repos\\App-Azure-OpenId\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lklk9\\source\\repos\\App-Azure-OpenId\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "Views\\Account\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T18:32:03.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AzureB2CUserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\lklk9\\source\\repos\\App-Azure-OpenId\\Services\\AzureB2CUserManagement.cs",
+              "RelativeDocumentMoniker": "Services\\AzureB2CUserManagement.cs",
+              "ToolTip": "C:\\Users\\lklk9\\source\\repos\\App-Azure-OpenId\\Services\\AzureB2CUserManagement.cs",
+              "RelativeToolTip": "Services\\AzureB2CUserManagement.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:32:55.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\lklk9\\source\\repos\\App-Azure-OpenId\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\lklk9\\source\\repos\\App-Azure-OpenId\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAADwv4IAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:23:11.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
